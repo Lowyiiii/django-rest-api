@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e31b6543-b6b3-4d03-9f34-e26c3b2eca3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/users/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,11 +83,23 @@
       <option name="presentableId" value="Default" />
       <updated>1580925959682</updated>
       <workItem from="1580926000100" duration="6941000" />
-      <workItem from="1580973420800" duration="1840000" />
+      <workItem from="1580973420800" duration="2987000" />
+      <workItem from="1580999719881" duration="15480000" />
+      <workItem from="1581176321752" duration="1945000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="439" y="913" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581012274537">
+      <screen x="0" y="768" width="1366" height="768" />
+    </state>
+    <state x="439" y="913" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.768.1366.768/47.0.1319.768@0.768.1366.768" timestamp="1581012274537" />
+    <state x="205" y="0" width="704" height="768" key="find.popup" timestamp="1581015541014">
+      <screen x="47" y="0" width="1319" height="768" />
+    </state>
+    <state x="205" y="0" width="704" height="768" key="find.popup/0.768.1366.768/47.0.1319.768@0.768.1366.768" timestamp="1581015541014" />
   </component>
 </project>
